@@ -5,7 +5,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-> **Veri Madenciliği Projesi** | **Hazırlayan:** [Adın Soyadın]
+> **Veri Madenciliği Projesi** | **Hazırlayan:** Baran Karakuş
 
 ---
 
