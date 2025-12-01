@@ -65,7 +65,7 @@ Veri setinin boyutu GitHub sınırlarını (~100MB) aştığı için **sıkışt
 
 1.  **Repoyu indirin:**
     ```bash
-    git clone [https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ.git](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ.git)
+    git clone https://github.com/KarakusBaran/Logistic_Regression_Model.git
     ```
 2.  **Veriyi Hazırlayın (Önemli Adım):**
     * Klasör içindeki `US_Crime_DataSet.rar` dosyasına sağ tıklayın.
